@@ -1,0 +1,22 @@
+{
+  "name": "kathleen",
+  "version": "1.0.0",
+  "description": "Keep the number of selectors in a single file below the limit by splitting your CSS over multiple stylesheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "first commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smurfs2549/blesscss.git"
+  },
+  "keywords": [
+    "blesscss"
+  ],
+  "author": "kathleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smurfs2549/blesscss/issues"
+  },
+  "homepage": "https://github.com/smurfs2549/blesscss#readme"
+}
